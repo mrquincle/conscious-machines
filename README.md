@@ -1,7 +1,6 @@
-conscious-machines
+Conscious machines
 ==================
 
 How to build conscious machines!?
 
-
-Currently, this repository contains yet no software, we are starting with collecting information on how to do this on the [wiki](https://github.com/mrquincle/conscious-machines/wiki).
+Currently, this repository contains no software. It is just flards of texts to make up my mind.
